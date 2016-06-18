@@ -1,4 +1,23 @@
 #cool{
-	font-color: red;
+	color: blue
+	;
 	font-size: 40px
+}
+
+body{
+	background-color: #64c13e
+}
+
+
+div{
+	background-color: green;
+	height: 300px;
+	width: 300px
+	
+}
+
+
+#circle{
+	background-color: red;
+	border-radius: 500px;
 }
